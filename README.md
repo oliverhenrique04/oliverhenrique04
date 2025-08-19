@@ -93,7 +93,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverhenrique04&repo=Projeto_Biblioteca&theme=tokyonight" alt="Projeto Biblioteca" />
       </a>
       <br/>
-      <sub>📚 Sistema de Biblioteca em Java</sub>
+      <sub>📚 Sistema de Biblioteca em C</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/oliverhenrique04/Projeto-de-Agendamento-v1">
