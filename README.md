@@ -1,14 +1,9 @@
-<!--
-  README dinâmico por Oliver Henrique Ferreira
-  Temas: Star Wars ✨⚔️ • God of War 🪓🔥 • Pokémon ⚡🎮
--->
 
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:8b5cf6&text=Oliver%20Henrique%20Ferreira&fontAlign=50&fontSize=42&fontColor=ffffff&desc=ADS%20Student%20%7C%20C%20%2F%20Java%20%2F%20JS%20%2F%20Python%20%2F%20PostgreSQL%20%2F%20PHP%20%2F%20HTML5%20%2F%20CSS3%20%2F%20Bootstrap&descAlign=50&descAlignY=65" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:8b5cf6&text=Oliver%20Henrique%20Ferreira&fontAlign=50&fontSize=42&fontColor=ffffff&descAlign=50&descAlignY=65" alt="banner" />
 </p>
 
-<!-- Headline typing -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Que+a+For%C3%A7a+esteja+com+o+Seu+%C3%93timo+C%C3%B3digo!;%F0%9F%AA%93+BOY...+commita+isso+logo!;%E2%9A%A1+Gotta+ship+'em+all!;Graduando+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="typing" />
 </p>
