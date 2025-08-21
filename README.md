@@ -94,15 +94,6 @@
       </a>
       <br/>
       <sub>📚 Sistema de Biblioteca em C</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/oliverhenrique04/Projeto-de-Agendamento-v1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverhenrique04&repo=Projeto-de-Agendamento-v1&theme=tokyonight" alt="Projeto Agendamento" />
-      </a>
-      <br/>
-      <sub>📅 Projeto de Agendamento v1</sub>
-    </td>
-  </tr>
 </table>
 
 ---
