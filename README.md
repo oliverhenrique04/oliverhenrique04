@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Que+a+For%C3%A7a+esteja+com+o+Seu+%C3%93timo+C%C3%B3digo!;%F0%9F%AA%93+BOY...+commita+isso+logo!;%E2%9A%A1+Gotta+ship+'em+all!;Graduando+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Que+a+For%C3%A7a+esteja+com+o+Seu+%C3%93timo+C%C3%B3digo!;%F0%9F%AA%93+BOY...+commita+isso+logo!;%E2%9A%A1+Gotta+ship+'em+all!" alt="typing" />
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 ## 👤 Sobre mim
 - **Nome:** Oliver Henrique Ferreira  
 - **Idade:** 20 anos  
-- **Curso:** Análise e Desenvolvimento de Sistemas  
 
 > “May the *source* be with you.” ⚔️
 
